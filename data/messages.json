@@ -1,1 +1,12 @@
-{}
+{
+    "messages": [
+        "🚀 Welcome to your Dockerized Fedora Web Application!",
+        "⚡ This setup combines Fedora's stability with Docker's flexibility",
+        "🔧 Running on your Acer desktop with Cinnamon DE",
+        "🐳 Docker containers provide consistent environments across systems",
+        "💡 Try adding more services with docker-compose.yml",
+        "🔒 Security through isolation is Docker's superpower",
+        "🌐 This could easily be deployed to cloud with minimal changes",
+        "🎯 Perfect for development, testing, and production workflows"
+    ]
+}
